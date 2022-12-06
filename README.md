@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a second-year undergraduate student at IIT Kharagpur majoring in Computer Science. 
-I am currently learning about deep learning approaches to computer vision. I am comfortable in C/C++ and Python and have some competitive programming experience as well.
+I am a third-year undergraduate student at IIT Kharagpur majoring in Computer Science. 
+I am currently learning about deep learning approaches to computer vision. I am comfortable in C/C++ and Python and have some competitive programming experience as well. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanSharma0710&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
