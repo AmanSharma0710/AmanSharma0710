@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a fourth-year undergraduate student at IIT Kharagpur majoring in Computer Science. 
+I am a final-year undergraduate student at IIT Kharagpur majoring in Computer Science. 
 I am currently exploring Operating Systems as well as Distributed Systems. I am comfortable in C/C++ and Python, have explored ML/DL in the past, and have some competitive programming experience as well. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanSharma0710&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
